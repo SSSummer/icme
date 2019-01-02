@@ -1,0 +1,5 @@
+The identification curve of healthy people corresponding to Fig.2
+Just download the mfcc feature and put it in the current directory. Then run 'runMe' file directly to get the result.
+Download address: https://drive.google.com/open?id=142hcGLTIS2Yzqw0wdn05leuhYQ2BHmMd
+If you want to start with the step of recognition, you can use the goRecognition.m file.
+
